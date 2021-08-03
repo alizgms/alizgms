@@ -1,11 +1,11 @@
 <div align="center" style="display: flex">
-   <img height="312em" src="https://imgur.com/MuJjqUc.jpg"/>
+   <img height="310em" src="https://imgur.com/MuJjqUc.jpg"/>
 </div> 
 
 <div align="center" style="display: flex">
   <a href="https://github.com/alizgms">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alizgms&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alizgms&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=alizgms&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alizgms&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
   ##
